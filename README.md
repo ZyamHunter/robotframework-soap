@@ -56,6 +56,6 @@ Instale a ferramenta `virtualenv` para criar ambientes virtuais de aprendizado:
 
 
 ## EXTRAS
-- [KEYWORD DOCUMENTATION REST](https://raw.githack.com/Altran-PT-GDC/Robot-Framework-SOAP-Library/master/Doc/SoapLibrary.html#Create%20SOAP%20Client)
+- [KEYWORD DOCUMENTATION SOAP](https://raw.githack.com/Altran-PT-GDC/Robot-Framework-SOAP-Library/master/Doc/SoapLibrary.html#Create%20SOAP%20Client)
 - [SOAP UTILIZADO NOS TESTES DE CEP](https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl)
 - [SOAP UTILIZADO NOS TESTES DA CALCULADORA](http://www.dneonline.com/calculator.asmx?WSDL)
